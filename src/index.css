@@ -1,0 +1,40 @@
+html {
+  font-size: 13px;
+  box-sizing: border-box;
+  font-family: "Roboto";
+}
+
+@media (min-width: 400px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  position: relative;
+}
+
+body {
+  height: 100%;
+  margin: 0 auto;
+  padding-top: 2rem;
+  background: #171717;
+  width: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  background-color: #3f3d56;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #675dff;
+}

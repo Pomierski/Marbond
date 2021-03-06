@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98.641" height="94.913" viewBox="0 0 98.641 94.913">
+  <g id="bx-line-chart" transform="translate(-3 -3)">
+    <path id="Path_1" data-name="Path 1" d="M3,3V92.64a5.268,5.268,0,0,0,5.273,5.273h89.64V87.368H13.546V3Z" fill="#fff"/>
+    <path id="Path_2" data-name="Path 2" d="M49.477,42.114a5.267,5.267,0,0,0,7.456,0L83.3,15.749,75.842,8.293,53.2,30.93,41.114,18.839a5.267,5.267,0,0,0-7.456,0L7.293,45.2l7.456,7.456L37.386,30.023Z" transform="translate(18.344 22.617)" fill="#fff"/>
+  </g>
+</svg>
