@@ -43,7 +43,7 @@ const ContactForm = () => {
   return (
     <>
       <SectionTitle margin="5rem 0 2rem 0" type="secondary" id="contact">
-        Skontakuj się z nami
+        Skontaktuj się z nami
       </SectionTitle>
       <Wrapper>
         <Column dark="true" flex="2">
